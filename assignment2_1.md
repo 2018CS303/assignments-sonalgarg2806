@@ -2,11 +2,10 @@
 
 ### Blue Ocean
 
-1. From the administrator account, move to Manage Jenkins -> Manage Plugins.
-2. Install Blue Ocean (BlueOcean Aggregator) plugin from the list of Available plugins.
-3. Install Blue Ocean along with the required dependencies.
-4. Restart Jenkins. Type in terminal  sudo service jenkins restart
-5. Upon restart, enable the Blue Ocean option from the GUI.
+1. From the administrator account,open Manage Jenkins -> Manage Plugins.
+2. Install Blue Ocean plugin from the list of Available plugins.
+3. Restart Jenkins. Type in terminal  sudo service jenkins restart
+4. Upon restart, enable the Blue Ocean option from the GUI.
 
 ### Private repository as FreeStyle Project
 
